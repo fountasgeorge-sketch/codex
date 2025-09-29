@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 520 640">
+  <style>
+    .frame { fill: none; stroke: #2f2f2f; stroke-width: 4; }
+    .label { font-family: 'Montserrat', 'Helvetica Neue', Arial, sans-serif; fill: #2f2f2f; font-size: 20px; letter-spacing: 3px; text-transform: uppercase; }
+    .caption { font-family: 'Montserrat', 'Helvetica Neue', Arial, sans-serif; fill: #2f2f2f; font-size: 16px; letter-spacing: 1px; }
+    .zone { fill: none; stroke-width: 3.2; stroke-linecap: round; }
+  </style>
+  <rect class="frame" x="20" y="20" width="480" height="600" rx="8" />
+  <text class="label" x="50%" y="70" text-anchor="middle">PLATE XII</text>
+  <text class="caption" x="50%" y="105" text-anchor="middle">USDA Plant Hardiness Overlays &mdash; 1938 Service Map</text>
+  <g transform="translate(260 340)">
+    <path class="zone" stroke="#6c8f6b" d="M-150 -60 C -110 -160 120 -160 160 -50 C 200 60 120 150 -10 200 C -140 150 -200 40 -150 -60Z" />
+    <path class="zone" stroke="#c6a15b" d="M-120 -40 C -90 -120 80 -130 120 -30 C 150 60 90 120 -10 160 C -110 120 -160 20 -120 -40Z" />
+    <path class="zone" stroke="#2f2f2f" d="M-84 -20 C -64 -86 38 -94 78 -18 C 100 48 62 92 -10 120 C -82 92 -120 12 -84 -20Z" />
+    <circle fill="#f4f1e8" stroke="#2f2f2f" stroke-width="3" cx="-30" cy="-10" r="14" />
+    <circle fill="#f4f1e8" stroke="#2f2f2f" stroke-width="3" cx="52" cy="40" r="14" />
+    <line stroke="#2f2f2f" stroke-width="2" x1="-120" y1="-160" x2="90" y2="200" stroke-dasharray="12 12" />
+  </g>
+  <text class="caption" x="50%" y="590" text-anchor="middle">Zones 8a&ndash;10b reference for apparel interior labelling.</text>
+</svg>
